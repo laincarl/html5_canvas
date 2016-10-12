@@ -25,7 +25,7 @@ function(){
 	
 	
 	update(cans);
-	//render(cans);
+	
 },
 50
 	);
